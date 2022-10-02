@@ -45,8 +45,8 @@ global.location = "Turkiye, Mersin, Tarsus" //ur location
 //BOT COSTOMIZEDTATION
 global.owner = ['905538779046']
 global.ownertag = '905538779046' //ur tag number
-global.botnumber = '94764679736' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
+global.botnumber = '18154860501' //Add your Bot Number For Log
+global.botname = 'John Kurt @javidkurt' //ur bot name
 global.ig = "https://instagram.com/javidkurt" //your theme url which will be displayed on whatsapp
 global.myweb = "https://instagram.com/javidkurt" //ur website to be displayed
 global.sc = 'https://instagram.com/javidkurt' //script link
@@ -56,11 +56,11 @@ global.themeemoji = "📩" //ur theme emoji
 global.packname = "John Kurt @javidkurt" //ur sticker watermark packname
 global.author = "John Kurt @javidkurt" //ur sticker watermark author
 global.footer = "® John Kurt @javidkurt"
-global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
+global.aliveimg ="https://telegra.ph/file/a5b0d0168f7b78072348b.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
-global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.welcomeimg= "https://telegra.ph/file/a5b0d0168f7b78072348b.jpg"
+global.gbyeimg = "https://telegra.ph/file/a5b0d0168f7b78072348b.jpg"
+global.alivemsg = "Aktifim :) \n@best_m_otivation\n#lifetips\n#psychology\n#questions"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['905538779046'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -96,20 +96,20 @@ global.antitags = true
 global.prefa = ['','!','.']
 global.sp = '⭔'
 global.mess = {
-    success: '✉️✏️ _Done_',
-    admin: '✉️✏️ _This Feature Is Only For Admin!_',
-    botAdmin: '✉️✏️ _Bot Must Be Admin First!_',
-    owner: '✉️✏️ _This Feature Is Only For Owner!_',
-    group: '✉️✏️ _Feature Used Only For Groups!_',
-    private: '✉️✏️ _Features Used Only For Private Chat!_',
-    bot: '✉️✏️ _This Feature Is Only For Bot_',
-    wait: '✉️✏️ _Processing Please Wait..._',
-    linkm: '📧✏️ _Where is the link?_',
-    error: '✉️🤕 ```Error!!```',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    success: '✉️✏️ _Başarılı!_',
+    admin: '✉️✏️ _Admin değilim amk komut çalıştıramam admin olunca tekrar dene muwah!_',
+    botAdmin: '✉️✏️ _Bot yöntici olmalı askm_',
+    owner: '✉️✏️ _Bu Özellik Sadece Kurucum İçindir!_',
+    group: '✉️✏️ _Yalnızca Gruplar İçin Kullanılan Özellik!_',
+    private: '✉️✏️ _Yalnızca Özel Sohbet İçin Kullanılan Özellikler!_',
+    bot: '✉️✏️ _Bu Özellik Sadece Bot İçindir._',
+    wait: '✉️✏️ _İşleniyor Lütfen Bekle Askm..._',
+    linkm: '📧✏️ _Bağlantı nerede🤨?_',
+    error: '✉️🤕 ```Hata arızalanıyorum YARDIM!!```',
+    endLimit: 'Günlük Limitinizin Süresi Doldu, Limit Her 12 Saatte Bir Sıfırlanacak',
+    ban: 'Sahibi tarafından yasaklandınız, yasaklanmamış olmak istiyorsanız, sohbet sahibi.',
+    nsfw: 'nsfw özelliği etkinleştirilmedi, etkinleştirmek için lütfen yöneticiye başvurun',
+    banChat: 'Bot bu grupta yasaklandı, lütfen yasağı kaldırmak için sahibiyle iletişime geçin'
 }
     global.limitawal = {
     premium: "Infinity",
